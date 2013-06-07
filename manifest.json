@@ -20,5 +20,8 @@
       "all_frames": true
     }
   ],
+"web_accessible_resources": [
+    "popup.html"
+  ],
   "offline_enabled": true
 }
